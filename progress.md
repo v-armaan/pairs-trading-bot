@@ -1,0 +1,6 @@
+-importing data from alpaca api
+-standard deviation of two stocks
+-covariance
+-correlation
+----------------------------
+-to find paramters for entry,exit,stoploss,timebased exit
